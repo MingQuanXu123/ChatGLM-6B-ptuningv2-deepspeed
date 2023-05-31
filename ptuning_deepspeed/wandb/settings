@@ -1,0 +1,5 @@
+[default]
+entity = involute2
+project = Transformer-Summary
+base_url = https://api.wandb.ai
+
