@@ -1,5 +1,5 @@
 # ChatGLM-6B-PT
-本仓库实现了对于 ChatGLM-6B 模型基于 [P-Tuning v2](https://github.com/THUDM/P-tuning-v2) 的微调。在九天平台上利用多机多卡实现了deepspeed分布式训练，可参考"the_principles_and_practice_of_distributed_training_on_the_jiutian.pdf"文件查看九天分布式训练的说明。
+本仓库实现了对于 ChatGLM-6B 模型基于 [P-Tuning v2](https://github.com/THUDM/P-tuning-v2) 的微调。在九天平台上利用多机多卡实现了deepspeed分布式训练，可参考[九天平台分布式训练原理与实践V20230317.pdf](the_principles_and_practice_of_distributed_training_on_the_jiutian.pdf)文件查看九天分布式训练的说明。
 
 下面对主要的使用数据，代码和环境简要说明。
 
